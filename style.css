@@ -27,15 +27,15 @@ html{
 }
 
 .logo{
-    font-size:28px;
-    font-weight:700;
-    letter-spacing:2px;
-}
-
-.logo span{
+    font-size:32px;
+    font-weight:800;
+    letter-spacing:3px;
     color:#00ff88;
+    text-shadow:
+        0 0 10px #00ff88,
+        0 0 20px #00ff88,
+        0 0 30px #00ff88;
 }
-
 .nav-links{
     display:flex;
     list-style:none;
